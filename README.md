@@ -34,6 +34,9 @@ This add-on is ideal for developers, data scientists, and IoT enthusiasts lookin
 
 ---
 
+## Tutorial
+You can follow the Getting Started with Matterflow tutorial from our Docs https://matterflow.cloud/docs/intro
+
 ## Installation
 
 ### Prerequisites

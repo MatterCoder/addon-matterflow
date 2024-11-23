@@ -16,11 +16,6 @@
             <img src="https://img.shields.io/badge/Slack-channel-red?logo=slack">
         </a>
     </div>
-    <!-- HTML snippet to my README -->
-    <div style="display: flex;">
-<Button label="Click me" link="#using" /> 
-    </div>
-
     <h1>Home Assistant Add-on: Matter Data Pipeline</h1>
 </div>
 

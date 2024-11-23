@@ -66,6 +66,8 @@ Click **Add → Close**, or click the button below to add the repository directl
 
 3. Select the add-on and click **Install**.
 
+4. You may need to refresh the add-on page and scroll down to see the Matterflow addon.
+
 ### Post Installation
 
 1. After installation, open the Web UI to verify the add-on is running.  

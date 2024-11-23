@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/MatterCoder/Matterflow">
-        <img width="200" height="150" src="Matterflow.png">
+        <img width="200" height="150" src="addons/matterflow/icon.png">
     </a>
     <div style="display: flex;"><h1>Matterflow</h1></div>
     <br>
@@ -53,10 +53,10 @@ In Home Assistant, have the Matter integration installed.
 1. Go to the **Add-on store** in Home Assistant.
 2. Click **⋮ → Repositories**, and paste the following URL:
    
-[https://github.com/MatterCoder/addons-matterflow](https://github.com/MatterCoder/addons-matterflow)
+[https://github.com/MatterCoder/addon-matterflow](https://github.com/MatterCoder/addon-matterflow)
 
 Click **Add → Close**, or click the button below to add the repository directly:  
-[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMattercoder%2Faddons-matterflow)
+[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMattercoder%2Faddon-matterflow)
 
 3. Select the add-on and click **Install**.
 
@@ -127,3 +127,10 @@ This project is licensed under the [Apache License](LICENSE).
 ## Credits
 
 - [ivobrett](https://github.com/oidebrett)
+
+
+[aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[i386-shield]: https://img.shields.io/badge/i386-yes-green.svg

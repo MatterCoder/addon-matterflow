@@ -18,9 +18,7 @@
     </div>
     <!-- HTML snippet to my README -->
     <div style="display: flex;">
-        <a href="https://matterflow.cloud/docs/intro" style="background-color: #0070f3;border: 1px solid #0070f3;border-radius: 4px;cursor: pointer;font-size: 14px;font-weight: 500;line-height: 1.5;padding: 8px 16px;text-align: center;text-decoration: none;color: #ffffff;transition: color 0.3s ease, background 0.3s ease, border-color 0.3s ease;display: inline-block;white-space: nowrap;">
-        Matterflow Tutorial - 5min ⏱️
-        </a>    
+<Button label="Click me" link="#using" /> 
     </div>
 
     <h1>Home Assistant Add-on: Matter Data Pipeline</h1>

@@ -4,7 +4,9 @@
     </a>
     <div style="display: flex;"><h1>Matterflow</h1></div>
     <div style="display: flex;">
-[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)
+<a href="https://matterflow.cloud/docs/intro">
+  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff"/>    
+</a>   
     </div>
     <br>
     <div style="display: flex;">

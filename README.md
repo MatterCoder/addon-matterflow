@@ -3,11 +3,7 @@
         <img width="200" height="150" src="addons/matterflow/logo.png">
     </a>
     <div style="display: flex;"><h1>Matterflow</h1></div>
-    <div style="display: flex;">
-<a href="https://matterflow.cloud/docs/intro">
-  <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff"/>    
-</a>   
-    </div>
+    <br>
     <br>
     <div style="display: flex;">
         <a href="https://github.com/MatterCoder/Matterflow/releases">
@@ -19,6 +15,9 @@
         <a href="https://matterflow.slack.com">
             <img src="https://img.shields.io/badge/Slack-channel-red?logo=slack">
         </a>
+        <a href="https://matterflow.cloud">
+        <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff"/>    
+        </a>           
     </div>
     <h1>Home Assistant Add-on: Matter Data Pipeline</h1>
 </div>

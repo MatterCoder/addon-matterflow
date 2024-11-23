@@ -16,6 +16,28 @@
             <img src="https://img.shields.io/badge/Slack-channel-red?logo=slack">
         </a>
     </div>
+    <!-- HTML snippet to my README -->
+    <div style="display: flex;">
+        <a href="https://matterflow.cloud/docs/intro" style="
+        background-color: #0070f3; /* Replace with the desired background color */
+        border: 1px solid #0070f3; /* Replace with the desired border color */
+        border-radius: 4px; /* Adjust for your border radius */
+        cursor: pointer;
+        font-size: 14px; /* Adjust font size */
+        font-weight: 500; /* Replace with your font weight */
+        line-height: 1.5;
+        padding: 8px 16px; /* Adjust padding for vertical/horizontal size */
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff; /* Replace with the desired text color */
+        transition: color 0.3s ease, background 0.3s ease, border-color 0.3s ease;
+        display: inline-block;
+        white-space: nowrap;
+        ">
+        Matterflow Tutorial - 5min ⏱️
+        </a>    
+    </div>
+
     <h1>Home Assistant Add-on: Matter Data Pipeline</h1>
 </div>
 

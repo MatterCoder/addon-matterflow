@@ -4,19 +4,7 @@
     </a>
     <div style="display: flex;"><h1>Matterflow</h1></div>
     <div style="display: flex;">
-<a href="https://matterflow.cloud/docs/intro" style="
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 14px;
-  font-weight: bold;
-  color: white;
-  background-color: #0070f3;
-  text-decoration: none;
-  border-radius: 4px;
-  text-align: center;
-">
-  Matterflow Tutorial - 5min ⏱️
-</a>   
+[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)
     </div>
     <br>
     <div style="display: flex;">

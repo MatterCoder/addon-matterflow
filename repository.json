@@ -1,0 +1,7 @@
+{
+  "name": "Matterflow Add-on",
+  "url": "https://github.com/MatterCoder/addon-matterflow",
+  "maintainer": "Ivo Brett <ivo.brett@gmail.com>",
+  "description": "Matterflow add-on for Home Assistant.",
+  "version": "0.0.1"
+}

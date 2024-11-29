@@ -4,6 +4,7 @@ slug: matterflow
 name: Matterflow
 description: Matterflow - the data intelligence hub for Matter
 url: https://github.com/MatterCoder/addon-matterflow
+image: "oideibrett/image-{arch}-matterflow"
 arch:
   - armhf
   - armv7

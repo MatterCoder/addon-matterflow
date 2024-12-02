@@ -69,8 +69,8 @@ WORKDIR /matterflow/api
 # Set up not so Secret Key
 RUN echo "SECRET_KEY=tmp" > mf/.environment
 
-# Set up the address for the Matter python server websocket
-RUN echo "MATTER_SERVER=hassio" >> mf/.environment
+# Uncomment to set up a different address for the Matter python server websocket
+#RUN echo "MATTER_SERVER=your_matter_server_ip_address" >> mf/.environment
 
 # Set up the path for the sqlite3 db to be the tmp which we have mapped to /config 
 RUN echo "DIR_PATH='/data'" >> mf/.environment

@@ -28,9 +28,7 @@ map:
   - ssl:rw
   - addon_config:rw
 ports:
-  4173/tcp: 4173
   5173/tcp: 5173
-  8000/tcp: 8000
   9001/tcp: 9001
 ports_description:
   9001/tcp: Supervisord Web interface
